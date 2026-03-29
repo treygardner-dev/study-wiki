@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/treygardner/dev/Projects/study-wiki/study-wiki/bin/Debug/net10.0-ios/iossimulator-arm64/study-wiki.app/libSystem.Native.dylib
